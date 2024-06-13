@@ -143,6 +143,7 @@
 - [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
 - [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - A curated overview of the best and latest resources on Ethereum, Solidity and Web3 development.
 - [WTF Academy - Web3 Open Academy](https://wtf.academy/) - A Dapp that allows you to learn Solidity, test with quizzes, and get certificate for you skill [Chinese Language - 中文版].
+- [Solidity Academy - #100DaysOfSolidity](https://medium.com/@solidity101) - Your go-to resource for mastering Solidity programming. Learn smart contract development and blockchain integration in depth. 
 
 ##### Deployed on Ethereum Mainnet
 
@@ -180,6 +181,9 @@
 
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+- [Mastering Solidity Gas Efficiency](https://www.amazon.com/dp/B0C6421GC9/) - Advanced Techniques for Maximizing Gas Efficiency in Ethereum Smart Contracts
+- [The Solidity Blueprint](https://a.co/d/bc8m6lz) - A 21-Day Journey to Building Decentralized Applications
+- [Smart Contracts Made Simple](https://www.amazon.com/dp/B0BZLKZ58B?binding=paperback&ref=dbs_dp_rwt_sb_pc_tpbk) - A Practical Guide to Solidity Programming
 
 #### Practice
 
